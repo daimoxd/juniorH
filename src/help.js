@@ -7,6 +7,7 @@ const help = (prefix) => {
    ○ Comando: ⌜ ${prefix} ⌟
    ○ Creador: MUNGOD🤑™ 
    ○ Instagram: https://www.instagram.com/ola_soy_mun_nwn
+   ○ YouTube: https://youtube.com/channel/UCiztTgLs4tFII-5AwLI1bOQ
 
 
 ◉ *NUEVOS COMANDOS*
@@ -102,7 +103,7 @@ Para usar estas funciones el bot necesita admin
 Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desactivar los NSFW coloque ${prefix}nsfw 0
 
 
-No te olvides de seguirme en instagram flaco ;)
+No te olvides de seguirme en instagram y youtube flaco ;)
 
 
 _*by munbot el mas vergas Bv*_
