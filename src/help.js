@@ -8,6 +8,7 @@ const help = (prefix) => {
    ○ Creador: MUNGOD🤑™ 
    ○ Instagram: https://www.instagram.com/ola_soy_mun_nwn
    ○ YouTube: https://youtube.com/channel/UCiztTgLs4tFII-5AwLI1bOQ
+   ○ facebook: https://www.facebook.com/groups/499439214680148
 
 
 ◉ *NUEVOS COMANDOS*
