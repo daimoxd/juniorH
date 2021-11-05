@@ -1905,7 +1905,7 @@ break
                   }			
 		if (budy.startsWith(`gato`)) {
         const none = fs.readFileSync('./stcks/si.webp');
-		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+		client.sendMessage(from, none, MessageType.sticker, {quoted: mek, mimetype: 'image/webp', ptt:true})
                   }
 	if (isGroup && isSimi && budy != undefined) {
 						console.log(budy)
